@@ -1,0 +1,115 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome" : "Basic",
+      "Min" : -2,
+      "Max" : -0.5
+    },
+    {
+      "Biome" : "Void_Buffer",
+      "Min" : -0.5,
+      "Max" : 0
+    },
+    {
+      "Biome" : "Test_Features",
+      "Min" : 0,
+      "Max" : 2
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance" : 32,
+  "Density": {
+    "Type":	"YOverride",
+    "Skip":	false,
+    "Value":	0,
+    "Inputs":	[{
+			"Type":	"Cache",
+			"Skip":	false,
+			"Capacity":	3,
+			"Inputs":	[{
+        "Type":	"PositionsCellNoise",
+        "Skip":	false,
+        "MaxDistance":	50,
+        "Positions":	{
+          "Type":	"List",
+          "Skip":	false,
+          "Positions":	[{
+              "X":	0,
+              "Y":	0,
+              "Z":	-150
+            }]
+        },
+        "ReturnType":	{
+          "Type":	"Curve",
+          "Curve":	{
+            "Type":	"Manual",
+            "Points":	[{
+                "In":	0,
+                "Out":	-1
+              }, {
+                "In":	50,
+                "Out":	1
+              }]
+          }
+        },
+        "DistanceFunction":	{
+          "Type":	"Euclidean"
+        }
+      }]
+		}]
+  },
+  "SpawnPositions" : {
+    "Type" : "Imported",
+    "Name" : "Spawns"
+  },
+  "Framework" : [
+    {
+      "Type" : "Positions",
+      "Entries" : [
+        {
+          "Name" : "Spawns",
+          "Positions" : {
+            "Type" : "List",
+            "ExportAs" : "Spawns",
+            "Positions": [
+              {
+                "X": 0,
+                "Y": 200,
+                "Z": 0
+              },
+              {
+                "X": 30,
+                "Y": 200,
+                "Z": 0
+              },
+              {
+                "X": 10,
+                "Y": 200,
+                "Z": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Type" : "DecimalConstants",
+      "Entries" : [
+        {
+          "Name" : "Base",
+          "Value" : 100
+        },
+        {
+          "Name" : "Water",
+          "Value" : 100
+        },
+        {
+          "Name" : "Bedrock",
+          "Value" : 0
+        }
+      ]
+    }
+  ]
+}

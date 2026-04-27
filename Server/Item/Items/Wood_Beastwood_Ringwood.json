@@ -1,0 +1,53 @@
+{
+  "TranslationProperties": {
+    "Name": "items.wood_beastwood_sapwood_ring.name",
+    "Description": "items.wood_beastwood_sapwood_ring.description"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Block_Brown.png",
+  "Categories": [
+    "Blocks.Plants"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Wood",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "ItemId": "Ingredient_Tree_Bark",
+        "Quantity": 9,
+        "Quality": 0
+      }
+    },
+    "BlockParticleSetId": "Dust",
+    "Textures": [
+      {
+        "Weight": 1,
+        "Sides": "BlockTextures/Wood_Ring_BeastWood.png",
+        "Up": "BlockTextures/Mushroom_Block_Top_Brown.png",
+        "Down": "BlockTextures/Mushroom_Block_Top_Brown.png"
+      }
+    ],
+    "ParticleColor": "#534030",
+    "BlockSoundSetId": "Wood"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Mushrooms"
+    },
+    {
+      "Id": "Vegetables"
+    }
+  ],
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Plant"
+    ],
+    "Family": [
+      "Crop"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Foliage"
+}

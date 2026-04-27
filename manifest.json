@@ -1,0 +1,21 @@
+{
+  "Group": "NeonCogs",
+  "Name": "Beastlands",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "NeonCogs",
+      "Email": "neoncogs.work@gmail.com",
+      "Url": "https://neoncogs.net/"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.04.23-3f4475f43",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

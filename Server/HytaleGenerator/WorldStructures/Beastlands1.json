@@ -1,0 +1,55 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [{
+      "Biome" : "Beastlands_Forests",
+      "Min" : -2,
+      "Max" : -0.75
+    },
+    {
+      "Biome" : "Beastlands_Forests",
+      "Min" : -0.75,
+      "Max" : -0.1
+    },
+    {
+      "Biome" : "Beastlands_Forests",
+      "Min" : -0.1,
+      "Max" : 0
+    },
+    {
+      "Biome" : "Plains1_River",
+      "Min" : 0.1,
+      "Max" : 0.15
+    },
+    {
+      "Biome" : "Oceans",
+      "Min" : 0.15,
+      "Max" : 2
+    }
+  ],
+  "DefaultBiome": "Beastlands_Forests",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Value": "Biome-Map"
+  },
+  "Framework": [
+    {
+      "Type": "DecimalConstants",
+      "Entries": [
+        {
+          "Name": "Base",
+          "Value": 100
+        },
+        {
+          "Name": "Water",
+          "Value": 100
+        },
+        {
+          "Name": "Bedrock",
+          "Value": 0
+        }
+      ]
+    }
+  ]
+}

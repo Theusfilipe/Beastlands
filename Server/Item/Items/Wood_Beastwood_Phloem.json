@@ -1,0 +1,51 @@
+{
+  "TranslationProperties": {
+    "Name": "items.wood_beastwood_phloem.name",
+    "Description": "items.wood_beastwood_phloem.description"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Block_Green.png",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Wood",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "ItemId": "Wood_Beastwood_Phloem",
+        "Quality": 0
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "Textures": [
+      {
+        "Weight": 1,
+        "Sides": "BlockTextures/Wood_Plhoem_Beastwood_Trunk_Side.png",
+        "Up": "BlockTextures/Mushroom_Block_Top_Green.png",
+        "Down": "BlockTextures/Mushroom_Block_Top_Green.png"
+      }
+    ],
+    "ParticleColor": "#465c40",
+    "BlockSoundSetId": "Wood",
+    "RotationYawPlacementOffset": "None",
+    "BlockBreakingDecalId": "Breaking_Decals_Wood"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Wood_All"
+    },
+    {
+      "Id": "Charcoal"
+    },
+    {
+      "Id": "Wood_All_Trunk"
+    },
+    {
+      "Id": "Fuel"
+    }
+  ],
+  "PlayerAnimationsId": "Block",
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "MaxStack": 100,
+  "ItemLevel": 0
+}

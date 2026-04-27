@@ -1,0 +1,75 @@
+{
+  "TranslationProperties": {
+    "Name": "items.wood_kweebec_planks.name",
+    "Description": "items.wood_kweebec_planks.description"
+  },
+  "Parent": "Wood_Softwood_Planks",
+  "Icon": "Icons/ItemsGenerated/Wood_Kweebec_Planks.png",
+  "Set": "Wood_Tropicalwood_Planks",
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Ingredient_Stick",
+        "Quantity": 9
+      },
+      {
+        "ResourceTypeId": "Ingredient_Fibre",
+        "Quantity": 9
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Fieldcraft",
+        "Type": "Crafting",
+        "Categories": [
+          "WoodPlanks"
+        ]
+      },
+      {
+        "Id": "Workbench",
+        "Categories": [
+          "Workbench_Survival"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "BlockType": {
+    "Textures": [
+      {
+        "All": "BlockTextures/Wood_Kweebec_Planks.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#5a2e1b",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "ItemId": "Ingredient_Stick",
+        "Quantity": 9
+      }
+    }
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Wood_Planks"
+    },
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    },
+    {
+      "Id": "Wood_Tropicalwood"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Tropicalwood"
+    ]
+  }
+}

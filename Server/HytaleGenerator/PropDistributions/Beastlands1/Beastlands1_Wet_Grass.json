@@ -1,0 +1,378 @@
+{
+	"$NodeId":	"Weighted.Assignments-483c8fae-89fe-4184-a63e-22ed70473ce1",
+	"Type":	"Weighted",
+	"ExportAs":	"Plains1_Oak_Flower_Pink_Cyan",
+	"SkipChance":	0,
+	"Seed":	"A",
+	"WeightedAssignments":	[],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.PropDistribution-822de944-0850-4f1a-b559-e1cda047fb52":	{
+				"$Position":	{
+					"$x":	5165,
+					"$y":	3579
+				},
+				"$Title":	"[ROOT] Constant PropDistribution"
+			},
+			"FieldFunctionPositions-1ed998ec-6c55-40d3-804d-4bc6ab2b0756":	{
+				"$Position":	{
+					"$x":	6786,
+					"$y":	3367
+				}
+			},
+			"NormalizerDensityNode-05645c39-a9f3-4168-b62f-4d88172529eb":	{
+				"$Position":	{
+					"$x":	7519,
+					"$y":	3422
+				}
+			},
+			"SimplexNoise2DDensityNode-031f518c-863a-46c1-b509-f1b7344dcc50":	{
+				"$Position":	{
+					"$x":	8149,
+					"$y":	3414
+				}
+			},
+			"Delimiter-ddd15af0-08f0-4885-b0b8-e9554408e582":	{
+				"$Position":	{
+					"$x":	7439,
+					"$y":	3787
+				}
+			},
+			"SquareGrid2d.Positions-b31e8ad3-3083-4f5e-b944-3c166c7b91c3":	{
+				"$Position":	{
+					"$x":	7572,
+					"$y":	3180
+				}
+			},
+			"RandomRotator.Prop-fbf4ab77-0064-4908-9ca2-439d46e5ad4e":	{
+				"$Position":	{
+					"$x":	6077,
+					"$y":	4640
+				}
+			},
+			"Locator.Prop-51463e10-1775-43be-8061-8d1c933c0473":	{
+				"$Position":	{
+					"$x":	6908,
+					"$y":	4651
+				}
+			},
+			"Weighted.Prop-7b4a0c71-7d38-4f12-a708-cdbbc92e849d":	{
+				"$Position":	{
+					"$x":	7306,
+					"$y":	4059
+				}
+			},
+			"Entry.Weighted.Prop-a5c48b4d-b3d8-46af-9d22-24f7f41a22ae":	{
+				"$Position":	{
+					"$x":	8145,
+					"$y":	3800
+				}
+			},
+			"Manual.Prop-bb6c1a0a-961c-4f0e-a2d1-41f96d925838":	{
+				"$Position":	{
+					"$x":	8647,
+					"$y":	3806
+				}
+			},
+			"Block.Manual.Prop-4e54b2ac-84ee-430e-a636-9132b1f3c3f2":	{
+				"$Position":	{
+					"$x":	9302,
+					"$y":	3809
+				}
+			},
+			"Material-50da56e4-d824-49af-b687-9eb54bb4e948":	{
+				"$Position":	{
+					"$x":	9635,
+					"$y":	3808
+				}
+			},
+			"Entry.Weighted.Prop-8f642a00-15bf-4700-ad6a-e4ec0e69518d":	{
+				"$Position":	{
+					"$x":	8143,
+					"$y":	4053
+				}
+			},
+			"Manual.Prop-fbb57477-523d-4576-9e25-4982d332cc21":	{
+				"$Position":	{
+					"$x":	8635,
+					"$y":	4042
+				}
+			},
+			"Block.Manual.Prop-bc396c85-9bab-4e35-989f-8c0342ed91be":	{
+				"$Position":	{
+					"$x":	9326,
+					"$y":	4046
+				}
+			},
+			"Material-e05873fd-2bff-45fd-9988-da01cd5737b1":	{
+				"$Position":	{
+					"$x":	9659,
+					"$y":	4046
+				}
+			},
+			"Entry.Weighted.Prop-6834b5b1-4a72-4136-a553-21669b066967":	{
+				"$Position":	{
+					"$x":	8156,
+					"$y":	4260
+				}
+			},
+			"Manual.Prop-8c6d6f74-4b05-4f5c-b2b7-3279c8fb10f8":	{
+				"$Position":	{
+					"$x":	8648,
+					"$y":	4249
+				}
+			},
+			"Block.Manual.Prop-22cd0280-ad04-40f8-8745-5e774b17d13b":	{
+				"$Position":	{
+					"$x":	9326,
+					"$y":	4240
+				}
+			},
+			"Material-eda39b47-81b7-46d9-ab40-ddcd8cfc8acc":	{
+				"$Position":	{
+					"$x":	9659,
+					"$y":	4240
+				}
+			},
+			"Entry.Weighted.Prop-5a414460-3616-4358-ae58-f9fde759cfea":	{
+				"$Position":	{
+					"$x":	8160,
+					"$y":	4448
+				}
+			},
+			"Manual.Prop-cbea6eb4-3e00-412e-a5ab-7ec2a915cb79":	{
+				"$Position":	{
+					"$x":	8652,
+					"$y":	4437
+				}
+			},
+			"Block.Manual.Prop-939eab6b-131b-42f8-860d-ab13d59e9343":	{
+				"$Position":	{
+					"$x":	9329,
+					"$y":	4429
+				}
+			},
+			"Material-004d6503-5589-4e41-905a-f8152c7653fd":	{
+				"$Position":	{
+					"$x":	9662,
+					"$y":	4429
+				}
+			},
+			"Floor.Pattern-b9924ad8-b2df-4680-8c0b-f4e754ec2870":	{
+				"$Position":	{
+					"$x":	7821,
+					"$y":	5362
+				}
+			},
+			"BlockType.Pattern-831da159-28d2-426d-9f77-8bd82a9ac9e0":	{
+				"$Position":	{
+					"$x":	8592,
+					"$y":	5374
+				}
+			},
+			"Material-74779488-c131-443d-8863-bee2c4e75cd0":	{
+				"$Position":	{
+					"$x":	9364,
+					"$y":	5349
+				}
+			},
+			"BlockType.Pattern-af351687-d947-4325-a431-c8bc1843552b":	{
+				"$Position":	{
+					"$x":	8629,
+					"$y":	5610
+				}
+			},
+			"Material-5f362309-631e-43a1-8c0f-0d5c3c851e28":	{
+				"$Position":	{
+					"$x":	9369,
+					"$y":	5614
+				}
+			},
+			"Linear.Scanner-13a49557-0c6a-4970-99ca-4d876d9525e0":	{
+				"$Position":	{
+					"$x":	7867,
+					"$y":	4926
+				}
+			},
+			"Integer.Range-6b3707cf-ea34-4e24-9502-d2265000befe":	{
+				"$Position":	{
+					"$x":	8621,
+					"$y":	4954
+				}
+			}
+		},
+		"$FloatingNodes":	[{
+				"$NodeId":	"Constant.PropDistribution-822de944-0850-4f1a-b559-e1cda047fb52",
+				"Type":	"Constant",
+				"ExportAs":	"Beastlands1_Wet_Grass",
+				"Positions":	{
+					"$NodeId":	"FieldFunctionPositions-1ed998ec-6c55-40d3-804d-4bc6ab2b0756",
+					"Type":	"FieldFunction",
+					"Skip":	false,
+					"FieldFunction":	{
+						"$NodeId":	"NormalizerDensityNode-05645c39-a9f3-4168-b62f-4d88172529eb",
+						"Type":	"Normalizer",
+						"Skip":	false,
+						"FromMin":	0,
+						"FromMax":	1,
+						"ToMin":	-1,
+						"ToMax":	0.6,
+						"Inputs":	[{
+								"$NodeId":	"SimplexNoise2DDensityNode-031f518c-863a-46c1-b509-f1b7344dcc50",
+								"Type":	"SimplexNoise2D",
+								"Skip":	false,
+								"Lacunarity":	3,
+								"Persistence":	0.1,
+								"Octaves":	6,
+								"Scale":	30,
+								"Seed":	"Plains1_Oak_Flowers_1"
+							}]
+					},
+					"Delimiters":	[{
+							"$NodeId":	"Delimiter-ddd15af0-08f0-4885-b0b8-e9554408e582",
+							"Min":	0,
+							"Max":	1
+						}],
+					"Positions":	{
+						"$NodeId":	"SquareGrid2d.Positions-b31e8ad3-3083-4f5e-b944-3c166c7b91c3",
+						"Type":	"SquareGrid2d",
+						"Skip":	false
+					}
+				},
+				"Prop":	{
+					"$NodeId":	"RandomRotator.Prop-fbf4ab77-0064-4908-9ca2-439d46e5ad4e",
+					"Type":	"RandomRotator",
+					"Skip":	false,
+					"HorizontalRotations":	true,
+					"Prop":	{
+						"$NodeId":	"Locator.Prop-51463e10-1775-43be-8061-8d1c933c0473",
+						"Type":	"Locator",
+						"Skip":	false,
+						"PlacementCap":	1,
+						"Prop":	{
+							"$NodeId":	"Weighted.Prop-7b4a0c71-7d38-4f12-a708-cdbbc92e849d",
+							"Type":	"Weighted",
+							"Skip":	false,
+							"Entries":	[{
+									"$NodeId":	"Entry.Weighted.Prop-a5c48b4d-b3d8-46af-9d22-24f7f41a22ae",
+									"Prop":	{
+										"$NodeId":	"Manual.Prop-bb6c1a0a-961c-4f0e-a2d1-41f96d925838",
+										"Type":	"Manual",
+										"Skip":	false,
+										"Blocks":	[{
+												"$NodeId":	"Block.Manual.Prop-4e54b2ac-84ee-430e-a636-9132b1f3c3f2",
+												"Material":	{
+													"$NodeId":	"Material-50da56e4-d824-49af-b687-9eb54bb4e948",
+													"Solid":	"Plant_Grass_Wet_Overgrown",
+													"SolidBottomUp":	false
+												}
+											}]
+									},
+									"Weight":	1
+								}, {
+									"$NodeId":	"Entry.Weighted.Prop-8f642a00-15bf-4700-ad6a-e4ec0e69518d",
+									"Prop":	{
+										"$NodeId":	"Manual.Prop-fbb57477-523d-4576-9e25-4982d332cc21",
+										"Type":	"Manual",
+										"Skip":	false,
+										"Blocks":	[{
+												"$NodeId":	"Block.Manual.Prop-bc396c85-9bab-4e35-989f-8c0342ed91be",
+												"Material":	{
+													"$NodeId":	"Material-e05873fd-2bff-45fd-9988-da01cd5737b1",
+													"Solid":	"Plant_Grass_Wet_Wild",
+													"SolidBottomUp":	false
+												}
+											}]
+									},
+									"Weight":	3
+								}, {
+									"$NodeId":	"Entry.Weighted.Prop-6834b5b1-4a72-4136-a553-21669b066967",
+									"Prop":	{
+										"$NodeId":	"Manual.Prop-8c6d6f74-4b05-4f5c-b2b7-3279c8fb10f8",
+										"Type":	"Manual",
+										"Skip":	false,
+										"Blocks":	[{
+												"$NodeId":	"Block.Manual.Prop-22cd0280-ad04-40f8-8745-5e774b17d13b",
+												"Material":	{
+													"$NodeId":	"Material-eda39b47-81b7-46d9-ab40-ddcd8cfc8acc",
+													"Solid":	"Plant_Grass_Wet_Tall",
+													"SolidBottomUp":	false
+												}
+											}]
+									},
+									"Weight":	3
+								}, {
+									"$NodeId":	"Entry.Weighted.Prop-5a414460-3616-4358-ae58-f9fde759cfea",
+									"Prop":	{
+										"$NodeId":	"Manual.Prop-cbea6eb4-3e00-412e-a5ab-7ec2a915cb79",
+										"Type":	"Manual",
+										"Skip":	false,
+										"Blocks":	[{
+												"$NodeId":	"Block.Manual.Prop-939eab6b-131b-42f8-860d-ab13d59e9343",
+												"Material":	{
+													"$NodeId":	"Material-004d6503-5589-4e41-905a-f8152c7653fd",
+													"Solid":	"Plant_Grass_Wet_Short",
+													"SolidBottomUp":	false
+												}
+											}]
+									},
+									"Weight":	2
+								}]
+						},
+						"Pattern":	{
+							"$NodeId":	"Floor.Pattern-b9924ad8-b2df-4680-8c0b-f4e754ec2870",
+							"Type":	"Floor",
+							"Skip":	false,
+							"Origin":	{
+								"$NodeId":	"BlockType.Pattern-831da159-28d2-426d-9f77-8bd82a9ac9e0",
+								"Type":	"BlockType",
+								"Skip":	false,
+								"Material":	{
+									"$NodeId":	"Material-74779488-c131-443d-8863-bee2c4e75cd0",
+									"Solid":	"Empty",
+									"SolidBottomUp":	false
+								}
+							},
+							"Floor":	{
+								"$NodeId":	"BlockType.Pattern-af351687-d947-4325-a431-c8bc1843552b",
+								"Type":	"BlockType",
+								"Skip":	false,
+								"Material":	{
+									"$NodeId":	"Material-5f362309-631e-43a1-8c0f-0d5c3c851e28",
+									"Solid":	"Soil_Grass_Wet",
+									"SolidBottomUp":	false
+								}
+							}
+						},
+						"Scanner":	{
+							"$NodeId":	"Linear.Scanner-13a49557-0c6a-4970-99ca-4d876d9525e0",
+							"Type":	"Linear",
+							"Skip":	false,
+							"Axis":	"Y",
+							"AscendingOrder":	true,
+							"Range":	{
+								"$NodeId":	"Integer.Range-6b3707cf-ea34-4e24-9502-d2265000befe",
+								"MinInclusive":	80,
+								"MaxExclusive":	120
+							}
+						}
+					},
+					"Rotations":	[]
+				}
+			}],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[{
+				"$Position":	{
+					"$x":	8034.3125,
+					"$y":	6150.3125
+				},
+				"$width":	250,
+				"$height":	150,
+				"$name":	"Comment",
+				"$text":	"This Behavior is supposed to look for the Bark/Plhoem/Bark in the branches of the trees and \"close\" the branches so the Plhoem is not seen through the outside.\n\nThe closing is made by looking at the Wall Pattern of Plhoem_Sap blocks and putting bark on the side that is empty.\n\nIt works 30% of the time probably because it's very expensive computationally."
+			}],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}

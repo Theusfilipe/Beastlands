@@ -1,0 +1,22 @@
+{
+	"$NodeId":	"ListPositions-c8ee9c97-803b-475f-a7ac-80c3fe9ebf1c",
+	"Type":	"List",
+	"Skip":	false,
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"ListPositions-c8ee9c97-803b-475f-a7ac-80c3fe9ebf1c":	{
+				"$Position":	{
+					"$x":	1065,
+					"$y":	-762
+				},
+				"$Title":	"[ROOT] List Positions"
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Positions"
+	}
+}

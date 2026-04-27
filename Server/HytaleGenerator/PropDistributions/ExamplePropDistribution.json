@@ -1,0 +1,21 @@
+{
+	"$NodeId":	"Constant.PropDistribution-0feb512c-7344-4cdf-ad7f-905c18e375f8",
+	"Type":	"Constant",
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.PropDistribution-0feb512c-7344-4cdf-ad7f-905c18e375f8":	{
+				"$Position":	{
+					"$x":	684,
+					"$y":	-548
+				},
+				"$Title":	"[ROOT] Constant PropDistribution"
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - PropDistribution"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"$NodeId":	"Cuboid.Prop-aab4ca0f-6ac6-439c-9ee0-c5688f11ee12",
+	"Type":	"Cuboid",
+	"Skip":	false,
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Cuboid.Prop-aab4ca0f-6ac6-439c-9ee0-c5688f11ee12":	{
+				"$Position":	{
+					"$x":	951,
+					"$y":	-653
+				},
+				"$Title":	"[ROOT] Cuboid Prop"
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Prop"
+	}
+}
